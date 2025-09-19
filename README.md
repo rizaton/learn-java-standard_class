@@ -6,7 +6,7 @@ It follows after:
 - [java-learn-basic](https://github.com/rizaton/java-learn-basic) – Basic Java syntax and fundamentals
 - [java-learn-oop](https://github.com/rizaton/java-learn-oop) – Object-Oriented Programming in Java
 
-In this repo, I explore important **built-in Java classes** that are widely used in real-world development.
+I learned this from udemy, then I use git and github to track my learn consistency.
 
 ---
 
